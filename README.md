@@ -25,10 +25,10 @@ $ conda activate rgd
 The above code generates two PDF figures in a directory called `img`. Since the inputs, the noise, and the weights are all initialized randomly, the results will vary slightly each time, but since we are averaging over a large number of trials, the results are fairly stable. Here is the kind of result to expect:
 
 - Normal case:
- <img src="sample_POC_normal.png" alt="sample for Normal case" width="350">
+ <img src="sample_POC_normal.png" alt="sample for Normal case" width="600">
 
 - log-Normal case:
- <img src="sample_POC_lognormal.png" alt="sample for log-Normal case" width="350">
+ <img src="sample_POC_lognormal.png" alt="sample for log-Normal case" width="600">
 
 
 __Author and maintainer:__<br>
