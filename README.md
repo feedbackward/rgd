@@ -2,7 +2,7 @@
 
 In this repository, we provide example code to accompany the following paper:
 
- - Better generalization with less data using robust gradient descent. Matthew J. Holland and Kazushi Ikeda. ICML 2019 (to appear).
+ - <a href="http://proceedings.mlr.press/v97/holland19a.html">Better generalization with less data using robust gradient descent</a>. Matthew J. Holland and Kazushi Ikeda. ICML 2019.
 
 
 ## Running the demo
@@ -14,7 +14,7 @@ $ conda update -n base conda
 $ conda create -n rgd python=3.6 numpy matplotlib
 ```
 
-The current example we have ready and working is "POC" (proof of concept). This corresponds to the graphs in Figure 1 of our ICML paper. The first figure is for Normal noise, the second is for log-Normal noise. See the paper for experimental details.
+The current example we have ready and working is called "POC" (proof of concept). This corresponds to the graphs in Figure 1 of our ICML paper. The first figure is for Normal noise, the second is for log-Normal noise. See the paper for experimental details.
 
 ```
 $ conda activate rgd
